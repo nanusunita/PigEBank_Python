@@ -8,20 +8,20 @@ I used Python to wrangle and analyze the data. I made a report which shows my an
 
 One of the data analysts for the sales team recently left Pig E. Bank, so I’ve agreed to take their place and help out with a customer retention project.
 
-Goal
+## Goal
 Identify the top risk factors that contribute to client loss and model them in a decision tree.
 
-Data
+## Data
 Pig E. Bank's Data Set -  The data set includes customer ids, last names, credit scores, country, gender, age, tenure, balance, number of products, if they have a credit card, if they are an active member, estimated salary, and if they have exited from the bank.
 
-Tools
+## Tools
 The data was analyzed using Python and the following libraries:
 
 ● Pandas: for data analysis
 
 ● Numpy: for mathematical equations
 
-Folders
+## Folders
 The project files are divided between the following folders:
 
 ● 01 Project Management: Project Brief
@@ -30,8 +30,8 @@ The project files are divided between the following folders:
 
 ● 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
 
-● 04 Analysis: Contains the decision tree.
+● 04 Analysis: Contains the decision tree and other analysis in excel.
 
 
-Visualizations
+## Visualizations
 The decision tree was created using Word document
